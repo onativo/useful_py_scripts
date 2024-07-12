@@ -10,6 +10,7 @@ Desta forma, os resultados são apresentados sempre em PT-BR
 # Como utilizar:
 Apenas execute na linha de comando: `python3 get_phrases.py` e o resultado deve ser semelhante a isso:
 
-1799 - Ranjit Singh conquista Lahore e torna-se marajá do Punjab (Império Sikh).
-Nascido(a) em 1974 - Sharon den Adel, cantora e compositora holandesa
-Falecido(a) em 2008 - Bobby Murcer, jogador de beisebol, treinador e apresentador esportivo norte-americano (n. 1946)
+- 1799 - Ranjit Singh conquista Lahore e torna-se marajá do Punjab (Império Sikh)
+- Nascido(a) em 1974 - Sharon den Adel, cantora e compositora holandesa
+- Falecido(a) em 2008 - Bobby Murcer, jogador de beisebol, treinador e apresentador esportivo norte-americano (n. 1946)
+
